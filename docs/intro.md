@@ -85,26 +85,43 @@ Estos tres vídeos traducidos explican los primeros pasos dentro del modpack Ste
 
 ## 📺 Tutorial 1
 
-<video controls width="100%">
-  <source src="/videos/tutorial-1.mp4" type="video/mp4" />
-  Tu navegador no soporta vídeo HTML5.
-</video>
+<iframe
+  width="100%"
+  height="500"
+  src="https://youtu.be/mz1LqWQCoOI"
+  title="Tutorial 1"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen>
+</iframe>
 
 ---
 
 ## 📺 Tutorial 2
 
-<video controls width="100%">
-  <source src="/videos/tutorial-2.mp4" type="video/mp4" />
-</video>
+<iframe
+  width="100%"
+  height="500"
+  src="https://youtu.be/QoiPGtRNlc0"
+  title="Tutorial 2"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen>
+</iframe>
 
 ---
 
 ## 📺 Tutorial 3
 
-<video controls width="100%">
-  <source src="/videos/tutorial-3.mp4" type="video/mp4" />
-</video>
+<iframe
+  width="100%"
+  height="500"
+  src="https://youtu.be/AaWXQpTjVpk"
+  title="Tutorial 3"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen>
+</iframe>
 
 ---
 
