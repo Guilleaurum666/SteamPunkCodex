@@ -1,0 +1,75 @@
+/**
+ * SteamPunk Codex Theme
+ */
+
+:root {
+
+  /* Color principal */
+  --ifm-color-primary: #b87333;
+  --ifm-color-primary-dark: #a8662d;
+  --ifm-color-primary-darker: #9d5f29;
+  --ifm-color-primary-darkest: #7d4c21;
+
+  --ifm-color-primary-light: #c68642;
+  --ifm-color-primary-lighter: #d0934d;
+  --ifm-color-primary-lightest: #dea96c;
+
+  /* Bordes redondeados */
+  --ifm-global-radius: 10px;
+
+  /* Fuente código */
+  --ifm-code-font-size: 95%;
+
+  /* Fondo */
+  --ifm-background-color: #f8f5ef;
+}
+
+/* ---------------- DARK MODE ---------------- */
+
+[data-theme='dark'] {
+
+  --ifm-color-primary: #d6a15a;
+  --ifm-color-primary-dark: #c8934f;
+  --ifm-color-primary-darker: #bc8848;
+  --ifm-color-primary-darkest: #9a6f39;
+
+  --ifm-color-primary-light: #ddb06e;
+  --ifm-color-primary-lighter: #e3ba7d;
+  --ifm-color-primary-lightest: #edd1a2;
+
+  --ifm-background-color: #1d1b18;
+
+  --docusaurus-highlighted-code-line-bg: rgba(255,255,255,0.08);
+}
+
+/* ---------------- BOTONES ---------------- */
+
+.button--primary {
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+/* ---------------- NAVBAR ---------------- */
+
+.navbar {
+  box-shadow: 0 2px 12px rgba(0,0,0,.08);
+}
+
+/* ---------------- FOOTER ---------------- */
+
+.footer {
+  border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.table-of-contents {
+  display: none;
+}
+
+.col--3 {
+  display: none;
+}
+
+.col--7 {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
