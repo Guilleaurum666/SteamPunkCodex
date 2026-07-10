@@ -90,7 +90,7 @@ En este libro aprenderás las bases necesarias para sobrevivir y preparar tu pri
 
 <CardLink
   icon="🚀"
-  title="07 · Preparado para el Libro II"
+  title="07 · Preparado para L. II"
   description="Repasa lo aprendido antes de continuar."
   to="/docs/guia/libro-1/preparado-para-libro-2"
 />
