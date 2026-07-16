@@ -54,7 +54,16 @@ const sidebars = {
             id: 'guia/libro-2/index',
           },
 
-          items: [],
+          items: [
+            'guia/libro-2/capitulo-1',
+            'guia/libro-2/capitulo-2',
+            'guia/libro-2/capitulo-3',
+            'guia/libro-2/capitulo-4',
+            'guia/libro-2/capitulo-5',
+            'guia/libro-2/capitulo-6',
+            'guia/libro-2/capitulo-7',
+            'guia/libro-2/capitulo-8',
+          ],
         },
 
         {
@@ -67,7 +76,16 @@ const sidebars = {
             id: 'guia/libro-3/index',
           },
 
-          items: [],
+          items: [
+            'guia/libro-3/capitulo-1',
+            'guia/libro-3/capitulo-2',
+            'guia/libro-3/capitulo-3',
+            'guia/libro-3/capitulo-4',
+            'guia/libro-3/capitulo-5',
+            'guia/libro-3/capitulo-6',
+            'guia/libro-3/capitulo-7',
+            'guia/libro-3/capitulo-8',
+          ],
         },
 
         {
@@ -80,7 +98,16 @@ const sidebars = {
             id: 'guia/libro-4/index',
           },
 
-          items: [],
+          items: [
+            'guia/libro-4/capitulo-1',
+            'guia/libro-4/capitulo-2',
+            'guia/libro-4/capitulo-3',
+            'guia/libro-4/capitulo-4',
+            'guia/libro-4/capitulo-5',
+            'guia/libro-4/capitulo-6',
+            'guia/libro-4/capitulo-7',
+            'guia/libro-4/capitulo-8',
+          ],
         },
 
         {
